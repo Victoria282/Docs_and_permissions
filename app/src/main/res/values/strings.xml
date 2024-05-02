@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Docs_and_permissions</string>
+    <string name="document_send_title">Отправить документ</string>
+    <string name="document_open_title">Открыть документ</string>
+    <string name="ready_text_button">Готово</string>
+    <string-array name="supported_doc_ui_formats">
+        <item>image/jpeg</item>
+        <item>image/png</item>
+        <item>image/tiff</item>
+        <item>image/tif</item>
+        <item>image/gif</item>
+    </string-array>
+
+    <string-array name="supported_doc_formats">
+        <item>application/pdf</item>
+        <item>text/plain</item>
+        <item>text/html</item>
+        <item>text/xml</item>
+        <item>text/rtf</item>
+    </string-array>
+</resources>
